@@ -1,6 +1,6 @@
-# 📊 Data Analytics & GitHub Portfolio
+# Data Analytics & GitHub Portfolio
 
-## 📌 Über dieses Repository
+## Über dieses Repository
 Dieses Repository zeigt meine Fähigkeiten im Bereich:
 - Datenanalyse
 - SQL (PostgreSQL & T-SQL)
@@ -10,7 +10,7 @@ Es dient als Portfolio für zukünftige Arbeitgeber.
 
 ---
 
-## 🛠️ Tools & Technologien
+## Tools & Technologien
 - SQL (PostgreSQL, T-SQL)
 - Python (Grundlagen)
 - Git & GitHub
@@ -18,7 +18,7 @@ Es dient als Portfolio für zukünftige Arbeitgeber.
 
 ---
 
-## 📂 Struktur
+## Struktur
 
 - **/github-research** → GitHub Analysen & Projekte  
 - **/sql-server** → SQL Business Queries  
@@ -28,7 +28,7 @@ Es dient als Portfolio für zukünftige Arbeitgeber.
 
 ---
 
-## 📊 Inhalte
+## Inhalte
 
 ### 🔹 GitHub Research
 Analyse erfolgreicher GitHub-Profile und Projekte.
@@ -41,10 +41,10 @@ Migration von Datenbanken + Cheat Sheet.
 
 ---
 
-## 🎯 Ziel
+## Ziel
 Aufbau eines professionellen Portfolios für Data Analytics / IT.
 
 ---
 
-## 🚀 Status
+## Status
 In Arbeit – wird kontinuierlich verbessert.
