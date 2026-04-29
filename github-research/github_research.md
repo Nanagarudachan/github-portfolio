@@ -9,6 +9,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Qualität statt Quantität
 
+https://github.com/torvalds
+
 ---
 
 ## 2. freeCodeCamp
@@ -20,6 +22,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Klare und ausführliche README schreiben
 
+https://github.com/freeCodeCamp
+
 ---
 
 ## 3. TheAlgorithms
@@ -29,6 +33,8 @@ Was ist gut:
 
 Was ich übernehmen kann:
 → Projekte sauber strukturieren
+
+https://github.com/TheAlgorithms
 
 ---
 
@@ -40,6 +46,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Klare Ordnerstruktur
 
+https://github.com/microsoft
+
 ---
 
 ## 5. Google
@@ -49,6 +57,8 @@ Was ist gut:
 
 Was ich übernehmen kann:
 → Projekte verständlich erklären
+
+https://github.com/google
 
 ---
 
@@ -60,6 +70,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Inhalte visuell darstellen
 
+https://github.com/nilbuild
+
 ---
 
 ## 7. Public APIs
@@ -69,6 +81,8 @@ Was ist gut:
 
 Was ich übernehmen kann:
 → Projekte erstellen, die anderen helfen
+
+https://github.com/PublicAPIs-dev
 
 ---
 
@@ -80,6 +94,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Schritt-für-Schritt Inhalte
 
+https://github.com/Coding-Interview-Club
+
 ---
 
 ## 9. Donne Martin
@@ -90,6 +106,8 @@ Was ist gut:
 Was ich übernehmen kann:
 → Regelmäßig Projekte hochladen
 
+https://github.com/donnemartin
+
 ---
 
 ## 10. Easy Diffusion
@@ -99,3 +117,5 @@ Was ist gut:
 
 Was ich übernehmen kann:
 → Projekte verständlich erklären
+
+https://github.com/easydiffusion
