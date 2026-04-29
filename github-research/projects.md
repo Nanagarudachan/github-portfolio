@@ -10,6 +10,8 @@ Viele Ideen an einem Ort.
 Schwierigkeit:
 leicht
 
+https://github.com/soruly/awesome-acg
+
 ---
 
 ## 2. Aniyomi
@@ -21,6 +23,8 @@ Großes reales Projekt.
 
 Schwierigkeit:
 schwer
+
+https://github.com/aniyomiorg/aniyomi
 
 ---
 
@@ -34,6 +38,8 @@ AI + Anime kombiniert.
 Schwierigkeit:
 schwer
 
+https://github.com/bloc97/Anime4K
+
 ---
 
 ## 4. HakuNeko
@@ -46,6 +52,8 @@ Sehr praktisch.
 Schwierigkeit:
 mittel
 
+https://github.com/manga-download/hakuneko
+
 ---
 
 ## 5. Miru
@@ -57,3 +65,5 @@ Modern und plattformübergreifend.
 
 Schwierigkeit:
 mittel
+
+https://github.com/miru-project/repo
